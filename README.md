@@ -4,8 +4,8 @@
     + MFCC data link: https://drive.google.com/drive/folders/1uyQNqiX-6ZutmCmsc505knvjRKVDuHGq?usp=drive_link
 
 2. Feature Extraction Method:
-   _a. DWT analysis
-   _b. MFCC analysis
+   1. DWT analysis
+   2. MFCC analysis
 
 3. Model - CNN
    
@@ -15,8 +15,8 @@
    + Algorithm PSO
 
 5. Evaluation Metrics
-   a. PSO benchmark function
-   b. CNN evaluation metrics
-   [ ] Accuracy, Recall, Precision, F1-score
-   [ ] Confusion Matrix
-   [ ] ROC / AUC diagram
+   1. PSO benchmark function
+   2. CNN evaluation metrics
+       * [x] Accuracy, Recall, Precision, F1-score
+       * [ ] Confusion Matrix
+       * [ ] ROC / AUC diagram
