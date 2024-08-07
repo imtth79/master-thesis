@@ -17,6 +17,6 @@
 5. Evaluation Metrics
    a. PSO benchmark function
    b. CNN evaluation metrics
-   [] Accuracy, Recall, Precision, F1-score
-   [] Confusion Matrix
-   [] ROC / AUC diagram
+   [ ] Accuracy, Recall, Precision, F1-score
+   [ ] Confusion Matrix
+   [ ] ROC / AUC diagram
