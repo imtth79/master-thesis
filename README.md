@@ -4,8 +4,8 @@
     + MFCC data link: https://drive.google.com/drive/folders/1uyQNqiX-6ZutmCmsc505knvjRKVDuHGq?usp=drive_link
 
 2. Feature Extraction Method:
-   a. DWT analysis
-   b. MFCC analysis
+   _a. DWT analysis
+   _b. MFCC analysis
 
 3. Model - CNN
    
